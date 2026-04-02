@@ -38,4 +38,3 @@ chrome.declarativeNetRequest.getDynamicRules((oldRules) => {
     }
   });
 });
-
