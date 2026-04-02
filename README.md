@@ -1,3 +1,17 @@
 # miniblox-entity-pack
 
+Customizes Mobs in Miniblox.io✨
+
+What this pack looks like:
+
 <img width="363" height="353" alt="Screenshot 2026-04-01 195853" src="https://github.com/user-attachments/assets/7d2d0622-063e-4148-ae03-c6abf81b32e0" />
+<img width="344" height="337" alt="Screenshot 2026-04-01 195948" src="https://github.com/user-attachments/assets/b126b7de-3094-4474-b065-c7d0ea0770d8" />
+<img width="305" height="300" alt="Screenshot 2026-04-01 200032" src="https://github.com/user-attachments/assets/3eb3d104-64df-4666-bbfe-3f2cdbb6f2dd" />
+<img width="232" height="293" alt="Screenshot 2026-04-01 200137" src="https://github.com/user-attachments/assets/cd4954f7-d786-4d76-892f-27a23c3bbb42" />
+<img width="1349" height="621" alt="image" src="https://github.com/user-attachments/assets/6b83fc3e-235e-4465-9d4a-e2999c203fad" />
+
+Does not work with Back2Basics!!
+Other active texture packs may interfere with these textures!
+
+Discord: awesomecookiee679511
+YouTube: MochiMiniblox (@xxm0ch1_pyx3l.artzxx._yt)
