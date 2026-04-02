@@ -4,7 +4,7 @@
   "manifest_version": 3,
   "name": "Mob/Entity Textures Pack",
   "version": "1.3",
-  "description": "A browser extension to mod an online game. Some parts made by Heythereu",
+  "description": "swaps textures on some mobs",
   "author": "mochi_iris",
   "background": {"service_worker": "background.js"},
   "icons": {
