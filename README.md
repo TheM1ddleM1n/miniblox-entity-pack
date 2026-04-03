@@ -1,6 +1,6 @@
 # miniblox-entity-pack
 
-✨ A Chrome extension that replaces mob textures in [Miniblox.io](https://miniblox.io) with custom skins!
+✨ A Chrome extension that replaces entity textures in [Miniblox.io](https://miniblox.io) with custom entity skins!
 
 ## Supported Mobs
 
@@ -37,7 +37,7 @@
 3. Open Chrome and go to `chrome://extensions/`
 4. Enable **Developer mode** using the toggle in the top-right corner
 5. Click **Load unpacked** (top-left) and select the extracted folder
-6. Open or refresh Miniblox, join a server, and spawn one of the supported mobs!
+6. Open or refresh Miniblox, join a server, and spawn one of the supported mobs! ie. `/summon cow`
 
 > If you see an error like *"couldn't find manifest"*, try selecting the folder again — it does work! 😊
 
