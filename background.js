@@ -38,7 +38,7 @@ chrome.declarativeNetRequest.updateDynamicRules(
     if (chrome.runtime.lastError) {
       console.error("Error updating:", chrome.runtime.lastError);
     } else {
-      console.log("Rules updated");
+      console.log("Rules has been updated!");
     }
   }
 );
